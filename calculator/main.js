@@ -10,6 +10,6 @@ console.log(`multiply = ${multiply}`);
 
 const divide = require("./subtract");
 console.log(`divide = ${divide}`)
-console.log(`divide = ${divide}`)
+
 
  
